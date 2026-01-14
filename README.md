@@ -128,13 +128,11 @@
 | الشاشة | الوصف |
 |--------|--------|
 | ![واجهات النظام](ProjectImage/Image1.png) 
-| ![واجهات النظام](ProjectImage/Image2.png) 
-| ![واجهات النظام](ProjectImage/Image3.png) 
+| ![واجهات النظام](ProjectImage/Image2.png)  
 | ![واجهات النظام](ProjectImage/Image4.png) 
 | ![واجهات النظام](ProjectImage/Image5.png) 
 | ![واجهات النظام](ProjectImage/Image6.png) 
-| ![واجهات النظام](ProjectImage/Image7.png) 
-| ![واجهات النظام](ProjectImage/Image8.png) 
+| ![واجهات النظام](ProjectImage/Image7.png)  
 | ![واجهات النظام](ProjectImage/Image9.png) 
 | ![واجهات النظام](ProjectImage/Image10.png) 
 | ![واجهات النظام](ProjectImage/Image11.png) 
